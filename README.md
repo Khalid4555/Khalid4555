@@ -1,16 +1,16 @@
-### Hi there 👋
+Glad to see you here!  
 
-<!--
-**Khalid4555/Khalid4555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a soon to be front end developer :). I love programming, writing, speaking and traveling.
 
-Here are some ideas to get you started:
+I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GIF
+
+Talking about Personal Stuffs:
+
+👨🏻‍💻 I’m currently working on something cool;
+🚀 I’m currently learning Data Structures and Algorithms on leetcode;
+💬 Ask me about anything, I am happy to help;
+📝 I regulary write articles on medium;
+📫 How to reach me: knur7546@gmail.com;
+📝 Resume.
