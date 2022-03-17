@@ -34,8 +34,8 @@
 ### 📺 Latest Projects
 
 - Foodle App - Recipe application that allows you to search for ingredients you have in the fridge and return wonderful recipes to whip up in seconds.
-- Music Library App - Allows users to search for there....
-- React Weather App: Created a weather app in React which queries MCRcodes weather API and produces a 5-day weather forecast for a UK city entered into a search       bar.  
+- Music Library App -  a music-library-management app that takes CRUD requests and implements MySQL databases and express.js
+- React Weather App: Created a weather app in React which queries MCRcodes weather API and produces a 5-day weather forecast for a UK city entered into a search bar.  
 
 ---
 <details>
