@@ -5,7 +5,7 @@
 - 🔭 I value time and good energy!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about React Native
+- 🥅 2023 Goal: Learn more about React Native
 - ⚡ Fun fact: I love to eat and speak some basic mandarin
 
 ### Languages and Tools:
